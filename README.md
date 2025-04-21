@@ -1,5 +1,5 @@
 <p align="left">
-### Silas na área 👋<br><br><br><br><br>- 🔭 Há alguns anos, atuando com administração e desenvolvimento de bases de dados Sql Server, MySql, Oracle ...<br>- 🌱 Especialista em  IOT e Computação em Nuvem.  UAM ...<br>- 👯 Engenharia e integração de dados e sistemas Cloud, Databricks, <br>- 💬 Posso colaborar com  SGBD's...<br>- <a href="https://www.linkedin.com/in/silas-sidério-a74a3b11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>- 😄 Ele/Him</p>
+### Silas na área 👋<br><br><br><br><br>- 🔭 Há alguns anos, atuando com administração e desenvolvimento de bases de dados Sql Server, MySql, Oracle ...<br>- 🌱 Especialista em  IOT e Computação em Nuvem.  UAM ...<br>- 👯 Engenharia e integração de dados e sistemas Cloud, Databricks, <br>- 💬 Posso colaborar com  SGBD's..- 😄 Ele/Him</p>.<br>- <a href="https://www.linkedin.com/in/silas-sidério-a74a3b11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 
 ###
 
